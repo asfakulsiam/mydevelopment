@@ -1,0 +1,8 @@
+.pp{
+    background: black;
+    border: 5px solid white;
+    border-radius: 15px;
+    color: white;
+    text-align: center;
+    display: inline block;
+}

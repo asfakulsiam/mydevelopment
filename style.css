@@ -3,6 +3,13 @@
     border: 5px solid white;
     border-radius: 15px;
     color: white;
+    padding: 5px;
+    display: inline-block;
+}
+#hh{
+    background: black;
+    border: 5px solid white;
+    border-radius: 15px;
+    color: white;
     text-align: center;
-    display: inline block;
 }

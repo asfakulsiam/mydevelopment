@@ -1,15 +1,43 @@
-.pp{
-    background: black;
-    border: 5px solid white;
-    border-radius: 15px;
-    color: white;
-    padding: 5px;
+.header{
+    width: 1500px;
+    height: 110px;
+    background: rgb(66, 236, 236);  
+    margin: 0 auto;
+}
+.logo{
+    margin: auto;
     display: inline-block;
 }
-#hh{
-    background: black;
-    border: 5px solid white;
-    border-radius: 15px;
-    color: white;
-    text-align: center;
+.logo img{
+    width: 90px;
+    height: 90px;
+    padding: 12px 15px;
+    float: left;
+}
+.logo h4{
+   float: right; 
+   font-size: 20px;
+   padding: 10px 0px;
+}
+.menu{
+    float: right;
+    padding: 30px 15px;
+    font-size: 17px;
+}
+.menu ol{
+    list-style: none;
+}
+.menu ol li{
+    display: inline-block;
+}
+.menu ol li a{
+    text-decoration: none;
+    color: black;
+}
+.menu ol li a:hover{
+    border: 2px solid rgb(6, 41, 54);
+    border-radius: 8px;
+    color: rgb(23, 12, 63);
+    padding: 4px;
+
 }
